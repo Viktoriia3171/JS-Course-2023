@@ -1,0 +1,14 @@
+.tasks {
+   margin-bottom: 30px;
+}
+a {
+   font-size: 24px;
+}
+table {
+   border-collapse: collapse;
+   border-spacing: 0;
+}
+td {
+   padding: 10px 20px;
+   border: 1px #000 solid;
+}

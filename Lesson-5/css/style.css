@@ -1,0 +1,62 @@
+.tasks {
+   margin-bottom: 30px;
+}
+a {
+   font-size: 24px;
+}
+input {
+   margin-left: 20px;
+}
+td, table {
+   border: 1px solid #000;
+}
+table {
+   display: inline-block;
+   margin: 0 30px 20px 0;
+}
+td {
+   width: 20px;
+   height: 20px;
+   text-align: center;
+}
+.ship-game-rows, .ship-game-columns {
+   display: inline-block;
+   width: 100px;
+   height: 100px;
+   background-color: rgb(153, 187, 239);
+   margin-bottom: 5px;
+}
+.ship-game-rows {
+   align-items: center;
+   text-align: center;
+}
+.ship-game-columns {
+   margin-left: 10px;
+}
+.ship-game-btn {
+   margin: 5px auto;
+   
+}
+.ship-game-btn__btn {
+   width: 90px;
+   height: 90px;
+   background-color: rgb(192, 213, 245);
+   border: 1px solid white;
+}
+.ship-game-btn__btn:hover {
+   cursor: pointer;
+   background-color: rgb(57, 146, 163);
+   }
+.ship-game-image {
+   max-width: 90px;
+   max-height: 90px;
+}
+.game {
+   max-width: 150px;
+   max-height: 150px;
+   margin-bottom: 100px;
+}
+.task12 {
+   display: block;
+   margin-bottom: 80px;
+}
